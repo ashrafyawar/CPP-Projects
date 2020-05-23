@@ -1,0 +1,2 @@
+ashraf yawar [PHYSICS 3 STATICS 4 ] total_credit: 7 credit_right: 22
+ali ahmet [OOP 4 ] total_credit: 4 credit_right: 22

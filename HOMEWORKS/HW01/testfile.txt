@@ -1,0 +1,13 @@
+-ns ashraf yawar 444 3
+-e 444 2
+-e 444 7
+-e 444 5
+-ns ali ahmet 666 3
+-e 666 4
+-o 444 
+-list
+-o all
+-o -f 444 ali.txt
+-o -f all.txt
+-de 444 2
+exit
