@@ -1,0 +1,33 @@
+cin >> get_name >>get_surename>>get_student_no>>get_level;
+-ns ASHRAF YAWAR 161044123 2
+-ns MURTEZA HAUDARI 1745221 3
+-ns BASHIR YAWAR 1845510 4
+-ns SAFI RAHMANI 1000214 1
+-ns AKBAR RASA 778451 4
+
+cin>>student_id>>classroom_id>>hour_of_week;
+-enter 161044123 1 
+-enter 161044123 1
+-enter 161044123 1
+-enter 778451 1
+-enter 778451 1
+-enter 778451 2
+-enter 778451 1
+
+cin>>student_id;
+-quit 161044123
+-quit 161044123
+-quit 778451
+
+cin>>student_id>>classroom_id>>hour_of_week;
+-enter 161044123 6
+-enter 161044123 6
+-enter 161044123 6
+-enter 778451 6
+-enter 778451 6
+-enter 778451 6
+
+cin>>course_id;
+-attendance
+-attendance
+exit
