@@ -1,0 +1,15 @@
+How to find "hearth of the pyramid":
+
+1- Find the line which is under the middle line of the pyramid : (L+1)/2 + 1
+
+2- Find the middle number(s) which is at the center of the line. If length of line is even, there are 2 numbers at the center. Else, there is one number at the center. Number(s) is the "hearth of the pyramid".
+
+WHY it is not the center of the pyramid?
+
+It is related with the golden ratio. But it must be integer, so rounded.
+
+https://www.fq.math.ca/Scanned/14-2/hosoya.pdf
+
+http://assets.press.princeton.edu/chapters/s8446.pdf
+
+https://grahamhancock.com/wp-content/uploads/2014/12/NightingaleE1-10.jpg
