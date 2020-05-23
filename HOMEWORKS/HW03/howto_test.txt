@@ -1,0 +1,17 @@
+*************************************************************
+this txt file is ready commands to test the program following commands can be executed in any order.
+*************************************************************
+to test in terminal first write:
+make   Then Enter
+./hw03 Then Enter
+
+-propose 7 SOFTWARE 312 3 3 MACH
+-propose 7 HTML 255 4 2 MACH
+-propose 7 DEEPLEARNING 012 4 2 PROG
+-arrangeC
+-timetable 4
+-timetable
+-timetable 4
+-arrangeC 1 2,5
+-arrangeC
+exit
